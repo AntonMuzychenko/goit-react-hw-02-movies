@@ -1,0 +1,31 @@
+.movieCard {
+  border-radius: 4px;
+
+  color: black;
+  overflow: hidden;
+  background: rgb(23, 225, 252);
+  box-shadow: 0 0 10px rgba(4, 8, 12, 2.5);
+  padding: 10px;
+  font-style: italic;
+  font-size: 16px;
+}
+
+.content {
+  padding: 8px;
+}
+
+.img {
+  display: block;
+  max-width: 100%;
+}
+
+.title {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 500;
+}
+
+.descr {
+  margin-bottom: 0;
+  line-height: 1.5;
+}

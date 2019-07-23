@@ -1,0 +1,9 @@
+.noResults {
+  width: 100%;
+  display: block;
+  text-align: center;
+}
+
+.noMatch {
+  font-size: 18px;
+}
